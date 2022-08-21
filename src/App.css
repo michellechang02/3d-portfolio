@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  font-family: 'Italiana', serif;
+}
+.font-link {
+  font-family: 'Italiana', serif;
+}
+
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.bg-myBlue {
+  background-color: white;
+  
+}
+
+
+.navbar-link {
+  margin: 5px;
+  text-decoration: none;
+  color: pink;
+  display: inline-block;
+  position: relative;
+  font-family: 'Italiana', serif;
+  font-weight: bold;
+  font-size: large;
+  border-bottom: 1px solid transparent;
+  transition: all ease-in-out 500ms;
+}
+
+.navbar-link:hover {
+  color: pink;
+  border-color: pink;
+}
